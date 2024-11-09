@@ -3,6 +3,8 @@
 ## Introduction
 This project examines the impact of varying UO₂ enrichment levels on a AP1000 Pressurized Water Reactor (PWR) using the Monte Carlo N-Particle (MCNP) simulation tool. We analyzed three different enrichments of U-235 in UO₂ (2.1%, 2.6%, and 3.1%) to observe differences in key reactor parameters, such as reactivity (k-eff), prompt neutron removal lifetime, and source entropy growth. This study provides insights into the relationship between enrichment level, reactor stability, and fuel cycle duration, which are critical factors in optimizing fuel performance and management.
 
+![Geometry layout of AP1000 PWR assembly using MCNP-v6.0.0.](AP1000.png)
+
 ## Project Conditions and Setup
 - **Reactor Type**: PWR with an 8x8 lattice geometry.
 - **Enrichment Levels**: UO₂ fuel at 2.1%, 2.6%, and 3.1% U-235 enrichment.
