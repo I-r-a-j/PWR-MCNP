@@ -1,4 +1,4 @@
-# Comparative Analysis of UO₂ Enrichment Levels in Pressurized Water Reactors (PWR)
+# Comparative Analysis of UO₂ Enrichment Levels in AP1000 Pressurized Water Reactors (PWR)
 
 ## Introduction
 This project examines the impact of varying UO₂ enrichment levels on a AP1000 Pressurized Water Reactor (PWR) using the Monte Carlo N-Particle (MCNP) simulation tool. We analyzed three different enrichments of U-235 in UO₂ (2.1%, 2.6%, and 3.1%) to observe differences in key reactor parameters, such as reactivity (k-eff), prompt neutron removal lifetime, and source entropy growth. This study provides insights into the relationship between enrichment level, reactor stability, and fuel cycle duration, which are critical factors in optimizing fuel performance and management.
